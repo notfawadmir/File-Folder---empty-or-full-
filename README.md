@@ -28,7 +28,12 @@ Key Features:
 
 2. Navigate to the repository folder and run the script:
    ```bash
-   python file_folder_checker.py
+    bash file_folder_checker.sh
+   
+   ```
+   ```shell 
+    ./file_folder_checker.sh
+   
    ```
 
 3. Follow the on-screen prompts to input the path of the file or folder you want to check.
